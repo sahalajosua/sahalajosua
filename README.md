@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [@sjsinaga](https://www.linkedin.com/in/sahalajosuasinaga/)
+### Hi there 👋 I'm [@sahalajosua](https://www.linkedin.com/in/sahalajosuasinaga/)
 
 
 - 👀 I’m interested in Machine Learning, ETL, & Data Engineering.
