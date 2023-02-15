@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm [@sjsinaga](https://www.linkedin.com/in/sahalajosuasinaga/)
+
+
+- 👀 I’m interested in Machine Learning, ETL, & Data Engineering.
+- 🌱 I’m currently learning Python & SQL.
 
 <!--
 **sahalajosua/sahalajosua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
