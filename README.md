@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [@sahalajosua](https://www.linkedin.com/in/sahalajosuasinaga/)
 
 
-- 👀 I’m interested in Machine Learning, ETL, & Data Engineering.
+- 👀 I’m interested in Machine Learning, ETL, Data Engineering & Cloud Engineering.
 - 🌱 I’m currently learning Python & SQL.
 
 
