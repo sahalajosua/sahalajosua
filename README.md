@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Machine Learning, ETL, Data Engineering & Cloud Engineering.
-- 🌱 I’m currently learning Python & SQL.
+- 🌱 Currently I work as Data Engineer in Consultant IT.
 
 
 
