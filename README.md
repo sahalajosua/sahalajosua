@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Machine Learning, ETL, Data Engineering & Cloud Engineering.
-- 🌱 Currently I work as Data Engineer in Consultant IT.
+- 🌱 Currently I'm work as Finance Data & Technology in Banking Industry.
 
 
 
